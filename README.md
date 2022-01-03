@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">PRIVACY POLICY</h2> 
+<h2 style="text-align: center;">PRIVACY POLICY FOR Osram Led Control E27</h2> 
 <p></p> 
 <p>This privacy policy governs your use of the software application App Name (“Osram Led Control E27”) for mobile devices that was created by&nbsp;Hebele.&nbsp;The Application is&nbsp;led lamb IR remote controller.&nbsp;</p> 
 <h4>&nbsp;</h4> 
